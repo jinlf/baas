@@ -7,7 +7,7 @@ Research report about (Mobile) Backend as a Service ((M)BaaS)
 * [Apigee App Services](  http://apigee.com   )   API管理公司
 * [apiOmat](  http://www.apiomat.com  )   应该是德国公司，支持企业级
 * [Appacitive](  http://appacitive.com   )   有可视化编程
-* [Appcelerator](  www.appcelerator.com)   企业平台、开发者工具和市场，包含ACS (Appcelerator Cloud Services)，js到原生编译，面向SAP和Salesforce.com的数据连接器，微软Dynamics连接
+* [Appcelerator](  http://www.appcelerator.com)   企业平台、开发者工具和市场，包含ACS (Appcelerator Cloud Services)，js到原生编译，面向SAP和Salesforce.com的数据连接器，微软Dynamics连接
 * [Appear Networks](  https://www.appearnetworks.com  )   面向企业
 * [appery.io](  http://appery.io)   移动和响应式Web
 * [AppGlu](  http://appglu.com   )   有内容分析
