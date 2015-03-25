@@ -76,7 +76,7 @@ Research report about (Mobile) Backend as a Service ((M)BaaS)
 * [xamarin](  http://xamarin.com  )   C#，mono
 * [YorAPI](  https://yorapi.wordpress.com)   提供API创建服务
 * [ZenQuery](  http://www.zenqry.com   )   面向企业
-* [Zipline Games](  http://ziplinegames.com )   Moai游戏开发平台，lua
+* [Zipline Games](  http://getmoai.com/ )   Moai游戏开发平台，lua
 
 # 国内
 * [极光推送](  https://www.jpush.cn)   推送服务
