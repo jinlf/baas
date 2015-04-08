@@ -1,5 +1,4 @@
-# (M)BaaS
-Research report about (Mobile) Backend as a Service ((M)BaaS)
+# (Mobile) Backend as a Service -- (M)BaaS
 # 国外
 * [Accedo Connect](  http://www.accedo.tv)   Smart TV, IPTV出身，搞了一个BaaS
 * [Amazon AWS Mobile Service](  http://aws.amazon.com/cn/mobile )   云存储、推送通知、用户数据同步与身份管理、分析、NoSQL 数据库、事件与数据流
@@ -28,7 +27,6 @@ Research report about (Mobile) Backend as a Service ((M)BaaS)
 * [Cubeacon](  http://cubeacon.com )   ibeacon backend as a service
 * [Deployd](  http://deployd.com  )   node.js开源backend
 * [Encore.io](  http://encore.io)   面向企业
-* [End.js](  https://github.com/demohi/end   )   开源，实时数据库框架，可自行部署的Firebase
 * [Exadel](  http://www.exadel.com   )   基于云的移动应用生成器Tiggzi，H5，支持Windows Phone和黑莓
 * [FatFractal](  http://fatfractal.com   )   Cloud-in-a-Box，NoServer模型，JSON
 * [Firebase](  https://www.firebase.com)   已被google收购，同步数据能力强
@@ -65,6 +63,7 @@ Research report about (Mobile) Backend as a Service ((M)BaaS)
 * [PubNub](  http://www.pubnub.com   )   Data Stream Network
 * [QuickBlox](  http://quickblox.com)   带即时通讯功能
 * [Rackspace](  http://www.rackspace.com)   mobile-ready stack
+* [RhoMobile](  http://rhomobile.com) Ruby
 * [ScottyApp](  http://fanignite.com)   CONNECTING FANS WITH PRODUCTS
 * [Sencha.io](  http://www.sencha.com/products/io   )   H5云
 * [Sevenval](  http://www.sevenval.com/en  )   俄罗斯的？
@@ -126,7 +125,9 @@ Research report about (Mobile) Backend as a Service ((M)BaaS)
 * [华为PowerApp](  http://www.powerapp.io/powerapp/)   华为的BaaS
 * [百度开放平台](  http://developer.baidu.com/mobile   )   百度移动云
 * [新浪开放平台](  http://open.weibo.com/development/mobile?sudaref=cn.bing.com)   SAE
-* [腾讯 博思平台](  http://www.qcloud.com/solution_mobile.html  )   腾讯云携手德勤
+* [腾讯云德勤博思平台](  http://www.qcloud.com/solution_mobile.html  )   腾讯云携手德勤
 * [阿里云](  http://appcloud.aliyun.com/?spm=5176.7630237.201.81.R6YiUT&tab=2#app_section)   行业云
 * [AppCan](  http://appcan.cn)   一站式移动开发服务平台
-
+* [容联 云通讯](  http://www.yuntongxun.com) 稳定的IM API
+* [用友IM]( http://im.yyuap.com) 企业即时通信
+* [云之讯](  http://www.ucpaas.com) 完整的IM能力
